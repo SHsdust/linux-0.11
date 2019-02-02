@@ -1,2 +1,2 @@
 # linux-0.11
-linux 0.11 for learning
+linux 0.11 source for learning
